@@ -1,0 +1,56 @@
+.Heading {
+    background-color: #7FFFD4;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 2rem;
+    border-style: solid;
+    border-color: red;
+    height: 4rem;
+    line-height: 1rem;
+    margin: auto;
+    width: 600px;
+  }
+  .Forms  {  
+width: 300px;  
+height: 530;  
+margin: auto;  
+border: 3px solid skyblue;  
+border-radius: 5px;  
+padding: 20px;  
+}  
+#bt  {  
+width: 20px;  
+background-color: green;  
+color: white;  
+border: 3px solid gray;  
+    border-radius: 5px;  
+    padding: 26px;  
+    margin: 5px;  
+    font-size: 15px;  
+    text-align: center;
+    vertical-align: middle;
+   
+}  
+#calc{  
+  width: 250px;  
+  border: 5px solid black;  
+      border-radius: 3px;  
+      padding: 20px;  
+      margin: auto; 
+      background-color: green;  
+      color: white;  
+      
+  } 
+  #clear {  
+    width: 300px;  
+    background-color: red;  
+    color: white;  
+    border: 3px solid black;  
+        border-radius: 5px;  
+        padding: 26px;  
+        margin: 5px;  
+        font-size: 20px;  
+        text-align: center;
+        vertical-align: middle;
+       
+    }  
